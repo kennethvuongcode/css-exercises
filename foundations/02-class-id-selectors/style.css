@@ -1,0 +1,21 @@
+.odd-numbered {
+    background-color: rgb(255, 103, 103);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.large-font{
+    font-size: 24px;
+}
+
+#blue{
+    font-size: 36px;
+    color: rgb(131, 193, 255);
+}
+
+#green{
+    background-color: rgb(138, 255, 167);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
