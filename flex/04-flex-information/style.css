@@ -36,7 +36,6 @@ body{
 .title{
   padding: 0;
   margin-bottom: 32px;
-
 }
 
 .items{
@@ -50,9 +49,6 @@ body{
   flex: 1 1 auto;
 }
 
-p{
-  padding: 0;
-  margin: 0;
-}
+
 
 
